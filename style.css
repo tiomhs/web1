@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#jumbotron {
+  height: 580px;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/bg1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+nav {
+  font-weight: bold;
+}
+.line {
+  border-bottom: 1px solid #fff;
+}
+
+.card-container {
+  background-color: white;
+  padding: 8px;
+}
+
+.mata-uang {
+  background-color: rgb(14, 26, 63);
+  color: white;
+  height: 100%;
+  font-size: 20px;
+  font-weight: bold;
+}
